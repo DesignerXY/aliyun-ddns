@@ -1,0 +1,9 @@
+{
+  "AccessKeyId": "Your access key id",
+  "AccessKeySecret": "Your access key secret",
+  "targets": [
+  	{ "hostname": "a.xx.com", "ip": "127.0.0.1" },
+  	{ "hostname": "b.xx.com", "ip": "127.0.0.2" },
+  	{ "hostname": "c.xx.com", "ip": "127.0.0.3" }
+  ]
+}
