@@ -5,3 +5,5 @@
 https://github.com/yyqian/aliyun-ddns
 
 使用时需修改 config.json 中配置信息
+
+修改后直接执行 node index.js 即可
